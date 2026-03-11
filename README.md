@@ -10,3 +10,10 @@ _Entendendo oque é **git**,Aprendendo sobre **repositórios**,Trabalhando com *
 #### Titulo 4
 ##### Titulo 5
 ###### Titulo 6
+
+
+# Imagem
+![Logo do git](https://www.clipartmax.com/png/middle/321-3219756_reflections-of-a-solo-developer-git-logo-svg.png)
+
+# Rede social
+[Linkedin](https://www.linkedin.com/feed/)
