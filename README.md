@@ -17,3 +17,5 @@ _Entendendo oque é **git**,Aprendendo sobre **repositórios**,Trabalhando com *
 
 # Rede social
 [Linkedin](https://www.linkedin.com/feed/)
+
+[**Youtube**](https://www.youtube.com/feed/)
