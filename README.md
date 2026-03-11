@@ -19,3 +19,13 @@ _Entendendo oque é **git**,Aprendendo sobre **repositórios**,Trabalhando com *
 [Linkedin](https://www.linkedin.com/feed/)
 
 [**Youtube**](https://www.youtube.com/feed/)
+
+# Listas não ordenada
+* item 1
+* item 2
+* Item 3
+
+# Listas ordenada
+1. item 1
+2. Item 2
+3. Item 3
