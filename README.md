@@ -27,5 +27,6 @@ _Entendendo oque é **git**,Aprendendo sobre **repositórios**,Trabalhando com *
 
 # Listas ordenada
 1. item 1
+    1. Oque é git
 2. Item 2
 3. Item 3
