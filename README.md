@@ -51,3 +51,13 @@ if(c >= 5){Console.WriteLine("Esse numero é maior ou igual a cinco")}
 - [x] Login
 - [ ] Emprego como dev
 - [ ] Nova tesklist
+
+**Tabelas**
+
+Linguanes de programação | Descrição
+------------|----------
+C#| Jogos,coporativo,banco de dados
+Java | Corporativo,financeiro
+Python | Automação,dados,IA
+C++ | Jogos,Software
+
