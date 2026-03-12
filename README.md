@@ -35,3 +35,14 @@ _Entendendo oque é **git**,Aprendendo sobre **repositórios**,Trabalhando com *
 >Este é um blockquote
 >
 >Segunda area
+
+```
+git push
+```
+**Uso usando lingaugem c#**
+```cs
+int a = 2;
+int b = 3;
+int c = a+b
+if(c >= 5){Console.WriteLine("Esse numero é maior ou igual a cinco")}
+```
