@@ -43,6 +43,6 @@ git push
 ```cs
 int a = 2;
 int b = 3;
-int c = a+b
+int c = a+b;
 if(c >= 5){Console.WriteLine("Esse numero é maior ou igual a cinco")}
 ```
