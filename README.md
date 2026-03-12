@@ -62,4 +62,4 @@ Python | Automação,dados,IA
 C++ | Jogos,Software
 
 ### Usando um link de exemplo ###
-(Usando um link de exemplo)()
+[Usando um link de exemplo](#usando-um-link-de-exemplo)
